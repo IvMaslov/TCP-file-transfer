@@ -4,7 +4,7 @@ With this program you can exchange data on your local network
 
 Packages description:
 Each package is 1 kilobyte in size
-					Consists
+				    Consists
 			|				|
 1018 bytes  		|	two bytes		|	Number of package
 of data 		|	" " + and byte 		|	four bytes
