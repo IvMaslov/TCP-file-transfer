@@ -5,9 +5,9 @@ With this program you can exchange data on your local network
 Packages description:
 Each package is 1 kilobyte in size
 					Consists
-			|							|
-1018 bytes  |	two bytes				|	Number of package
-of data 	|	" " + and byte 			|	four bytes
+			|				|
+1018 bytes  		|	two bytes		|	Number of package
+of data 		|	" " + and byte 		|	four bytes
 			|	(1-end,0-not the end)	|
 
 
